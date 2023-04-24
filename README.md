@@ -1,7 +1,6 @@
 # Query Chatbot 
 
-
-![Stochastic Jack Ruusel](/assets/mascot.jpeg =250x250)
+<img src="/assets/mascot.jpeg" width=50% height=50%>
 
 This is my attempt in building a query chatbot over one's own documents. Or simply think of it as a search engine that gives you semantically sensible results according to your query! 
 
