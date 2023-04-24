@@ -1,6 +1,6 @@
 # Query Chatbot 
 
-<img src="/assets/mascot.jpeg" width=50% height=50%>
+<img src="/assets/mascot.jpeg" width=30% height=30%>
 
 This is my attempt in building a query chatbot over one's own documents. Or simply think of it as a search engine that gives you semantically sensible results according to your query! 
 
