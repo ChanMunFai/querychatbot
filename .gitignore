@@ -1,0 +1,14 @@
+# virtual environment 
+lc_venv/
+
+# cache 
+__pycache__
+
+# playground 
+playground/
+
+# .ipynb checkpoints
+.ipynb_checkpoints/
+
+# archives 
+archive_databases/
