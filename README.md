@@ -2,7 +2,7 @@
 
 This is my attempt in building a query chatbot over one's own documents. Or simply think of it as a search engine that gives you semantically sensible results according to your query! 
 
-In particular, I will be training the chatbot on the web pages by the National Climate Secretariat Singapore (NCCS)[https://nccs.gov.sg]. In future, I hope to extend the database to more and more governmental websites so that this can be a centralised interface that the user can interact with. 
+In particular, I will be training the chatbot on the web pages by the National Climate Secretariat Singapore [NCCS](https://nccs.gov.sg). In future, I hope to extend the database to more and more governmental websites so that this can be a centralised interface that the user can interact with. 
 
 Currently, I have completed the first iteration of an MVP with the chatbot giving largely sensible results most of the time. To further improve performance, I will be exploring the performance of different embeddings and vector databases, as well as using GPT 3.5 instead of a locally hosted LLM. 
 
