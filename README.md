@@ -1,7 +1,7 @@
 # Query Chatbot 
 
 
-![Stochastic Parrot](/assets/mascot.png)
+![Stochastic Jack Ruusel](/assets/mascot.jpeg)
 
 This is my attempt in building a query chatbot over one's own documents. Or simply think of it as a search engine that gives you semantically sensible results according to your query! 
 
