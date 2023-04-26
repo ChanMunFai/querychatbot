@@ -12,7 +12,7 @@ All parts of this work is completely unaffilated to the [National Climate Change
 
 However, note that outputs from the chatbot may suffer from inaccuracies, as modern chatbots are prone to hallucinations. For the latest and most accurate information, please refer to the original material from NCCS. 
 
-### Run the app locally 
+## Run the app locally 
 1. Clone the repository. 
 2. Create a virtual environment and install the required depencies from `requirements.txt`. 
   - Note that instructions differ slightly for [Windows](https://docs.python.org/3/library/venv.html). 
@@ -31,6 +31,10 @@ pip -r requirements.txt
 python3 ingest_data_locally.py
 ```
 
-4. 
+4. Run `app.py`. You will also need an [OPENAI API KEY](https://platform.openai.com/account/api-keys). 
+  - As of current writing, new users get free API credits of USD$5. 
 
+```
+python3 app.py
+```
 
