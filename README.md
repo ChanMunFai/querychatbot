@@ -20,7 +20,7 @@ However, note that outputs from the chatbot may suffer from inaccuracies, as mod
 ```
 python -m venv myenv
 source myenv/bin/activate
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
