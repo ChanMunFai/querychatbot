@@ -12,13 +12,17 @@ All parts of this work is completely unaffilated to the [National Climate Change
 
 However, note that outputs from the chatbot may suffer from inaccuracies, as modern chatbots are prone to hallucinations. For the latest and most accurate information, please refer to the original material from NCCS. 
 
+### Demonstration
+
 <details>
-  <summary>Example</summary>
+  <summary>Example 1</summary>
   
 ```
 User: What is climate change?
 
-StableLM: Hello John! It’s always a pleasure to meet new people.
+Chatbot: Climate change refers to significant variations in global weather patterns that persist over an extended period of time. It is caused by the 
+Greenhouse Effect, which occurs when heat from the Earth's surface is absorbed by Greenhouse Gases (GHGs) like carbon dioxide (CO2), methane (CH4) and 
+nitrous oxide(N20). 
 
 User: The pleasure is mine. Hey my grandma is in Toronto. I want to plan a surprise visit for her. She’s a person who loves gardens and flowers.
 
