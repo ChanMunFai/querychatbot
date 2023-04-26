@@ -20,14 +20,15 @@ User:
   What is climate change?
 
 Chatbot: 
-  Climate change refers to significant variations in global weather patterns 
-  that persist over an 
-  extended period of time. It is caused by the Greenhouse Effect, which occurs when heat from the Earth's 
-  surface is absorbed by Greenhouse Gases (GHGs) like carbon dioxide (CO2), methane (CH4) and nitrous oxide(N20). 
-  This has caused global temperatures to increase faster than ever before, leading to changes in rain petterns, 
-  sea levels rising, and snow and ice melting sooner each spring. The global impact of climate change can be 
-  seen in the air, water and land, with any small increase in global average temperature over an extended period
-  triggering a chain react ion of climate change around the world. 
+  Climate change refers to significant variations in global weather patterns that 
+  persist over an extended period of time. It is caused by the Greenhouse Effect, 
+  which occurs when heat from the Earth's surface is absorbed by Greenhouse Gases (GHGs) 
+  like carbon dioxide (CO2), methane (CH4) and nitrous oxide(N20). This has caused global 
+  temperatures to increase faster than ever before, leading to changes in rain petterns, 
+  sea levels rising, and snow and ice melting sooner each spring. The global impact of 
+  climate change can be seen in the air, water and land, with any small increase in global 
+  average temperature over an extended period triggering a chain reaction of climate change 
+  around the world. 
   
  User: 
   What is the government doing about it? 
