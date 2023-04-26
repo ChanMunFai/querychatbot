@@ -14,9 +14,7 @@ However, note that outputs from the chatbot may suffer from inaccuracies, as mod
 
 ## Demonstration
 
-<details>
-  <summary>Example 1</summary>
-  
+Example 1
 ```
 User: 
   What is climate change?
@@ -72,8 +70,6 @@ Chatbot:
   that consumers are not over-charged by electricity retailers passing on more than 100 per cent of the carbon tax 
   to consumers.
  ```
- 
-</details>
 
 ## Run the app locally 
 1. Clone the repository. 
