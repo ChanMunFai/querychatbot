@@ -38,5 +38,5 @@ python3 ingest_data_locally.py
 python3 app.py
 ```
 
-If you do not want to use OpenAI's API, I have also provided an example on how to use a local LLM as well as a cloud vectorstore (Pinecone) in `notebooks/4. NCCS - Chatbot.py`. 
+If you do not want to use OpenAI's API, I have also provided an example on how to use a local LLM as well as a cloud vectorstore (Pinecone) in `notebooks/4. NCCS - Chatbot.ipynb`. 
 
