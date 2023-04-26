@@ -32,7 +32,7 @@ python3 ingest_data_locally.py
 ```
 
 4. Run `app.py`. You will also need an [OPENAI API KEY](https://platform.openai.com/account/api-keys). 
-  - As of current writing, new users get free API credits of USD$5. 
+  - At the time of writing, new users get USD$5 of API credits for free. 
 
 ```
 python3 app.py
