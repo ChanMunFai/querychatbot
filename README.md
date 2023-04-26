@@ -12,17 +12,52 @@ All parts of this work is completely unaffilated to the [National Climate Change
 
 However, note that outputs from the chatbot may suffer from inaccuracies, as modern chatbots are prone to hallucinations. For the latest and most accurate information, please refer to the original material from NCCS. 
 
-### Demonstration
+## Demonstration
 
 <details>
   <summary>Example 1</summary>
   
 ```
-User: What is climate change?
+User: 
+  What is climate change?
 
-Chatbot: Climate change refers to significant variations in global weather patterns that persist over an extended period of time. It is caused by the 
-Greenhouse Effect, which occurs when heat from the Earth's surface is absorbed by Greenhouse Gases (GHGs) like carbon dioxide (CO2), methane (CH4) and 
-nitrous oxide(N20). 
+Chatbot: 
+  Climate change refers to significant variations in global weather patterns that persist over an 
+extended period of time. It is caused by the Greenhouse Effect, which occurs when heat from the Earth's 
+surface is absorbed by Greenhouse Gases (GHGs) like carbon dioxide (CO2), methane (CH4) and nitrous oxide(N20). 
+This has caused global temperatures to increase faster than ever before, leading to changes in rain petterns, 
+sea levels rising, and snow and ice melting sooner each spring. The global impact of climate change can be 
+seen in the air, water and land, with any small increase in global average temperature over an extended period
+triggering a chain react ion of climate change around the world. 
+  
+
+Ar: The Singapore government has implemented a suite of measures to help businesses improve energy efficiency, reduce emissions, and seize o
+What is the government doing about it?
+pportunities in the green economy. These measures include energy efficiency measures, as well as a study to examine the climate change impact
+§ on areas such as water resources and drainage, biodiversity and greenery, network infrastructure and building infrastructure.
+Your question:
+Elaborate more about measures to reduce emissions
+AI:
+below BAU Levels by 2020, and we have achieved this pledge with a 32% reduction below BAU levels in 2020. in Line with the agreement adopted
+The Singapore government has implemented a number of melsures to reduce emissions. In 2009, Singapore pledged to reduce our emissions by 16%
+in Paris in December 2015, Singapore has made a further commitment to reduce our Emissions Intensity by 36 per cent from 2005 levels by 2030,
+achieve our climate targets in the Addendum to Singapore's Long-Term LOw-Emissions Development Strategy 2020 (PDF, 7MB) and Singapore's Long-
+and stabilise our greenhouse gas emissions with the aim of peaking around 2030. You can find more information about Singapore's measures to
+Term Low-Emissions Development Strategy 2020 (PDF, 15MB).
+Your question:
+What concrete measures is the government taking to reduce these emissions?
+The Singapore government is taking a number of concrete neasures to reduce emissions. In 2609, Singapore pledged to reduce our emissions by 1
+6% below BAU levels by 2020, and we have achieved this with a 32% reduction. In Line with the agreement adopted in Paris in 2015, Singapore h
+sions with the ain of peaking around 2030. We are also embracing a shift towards a circular economy to reduce emissions, maxinise resource ef
+as made a further commitment to reduce our Enissions Intensity by 36 per cent from 2005 levels by 2030, and stabilise our greenhouse gas emis
+ficiency and resilience, and conserve landfill space, The Government aims to improve Singapore's overall recycling rate to 708 by 2030, and r
+educe the amount of waste sent to the landfill each day by 30% by 2030.
+Your question:
+What about a carbon tax?
+AI:
+The singapore government has implemented a carbon tax since 2019, set at Ss5/tcoze for the first five years from 2019 to 2023, From 1 January
+lers passing on more than 100 per cent of the carbon tax to consumers.
+2024, the carbon tax Level wilt be updated. The government is committed to ensuring that consumers are not over-charged by eiectricity retal
 
 User: The pleasure is mine. Hey my grandma is in Toronto. I want to plan a surprise visit for her. She’s a person who loves gardens and flowers.
 
