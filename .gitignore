@@ -12,3 +12,6 @@ playground/
 
 # archives 
 archive_databases/
+
+# Databases
+vectorstore.pkl 

@@ -13,6 +13,7 @@ All parts of this work is completely unaffilated to the [National Climate Change
 However, note that outputs from the chatbot may suffer from inaccuracies, as modern chatbots are prone to hallucinations. For the latest and most accurate information, please refer to the original material from NCCS. 
 
 ## Demonstration
+<img src="/assets/chatbot_demo.png" height=50%>
 
 Example 1
 ```
@@ -44,7 +45,7 @@ User:
   Elaborate more about measures to reduce emissions
 
 Chatbot:
-  The Singapore government has implemented a number of melsures to reduce emissions. In 
+  The Singapore government has implemented a number of measures to reduce emissions. In 
   2009, Singapore pledged to reduce our emissions by 16% below BAU Levels by 2020, and we 
   have achieved this pledge with a 32% reduction below BAU levels in 2020. In Line with 
   the agreement adopted in Paris in December 2015, Singapore has made a further commitment 
