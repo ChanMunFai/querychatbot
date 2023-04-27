@@ -13,7 +13,7 @@ All parts of this work is completely unaffilated to the [National Climate Change
 However, note that outputs from the chatbot may suffer from inaccuracies, as modern chatbots are prone to hallucinations. For the latest and most accurate information, please refer to the original material from NCCS. 
 
 ## Demonstration
-<img src="/assets/chatbot_demo.png" height=50%>
+<img src="/assets/chatbot_demo.png">
 
 Example 1
 ```
